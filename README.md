@@ -6,3 +6,10 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-WIP-orange)](https://th-web.fr)
 
 - 🔭 I’m currently working on [TH Web](https://github.com/anaistatibouet/thweb);
+- 💻 Last projects : [Login Page](https://github.com/anaistatibouet/login-test-alternance) and [OPN](https://github.com/anaistatibouet/opn-expertime)
+
+**Languages and Tools:**
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+  <img width="10%" src="https://img.icons8.com/color/144/000000/vue-js.png">
