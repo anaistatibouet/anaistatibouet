@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on [TH Web](https://github.com/anaistatibouet/thweb);
 - 💻 Last projects : [Login Page](https://github.com/anaistatibouet/login-test-alternance) and [OPN](https://github.com/anaistatibouet/opn-expertime)
+- ⏲️ Fun project : [Pomodoro](https://github.com/anaistatibouet/Pomodoro-Tatibouet-Strabach)
 
 **Favorite languages and frameworks**
 
