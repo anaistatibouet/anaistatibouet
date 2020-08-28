@@ -8,8 +8,13 @@
 - 🔭 I’m currently working on [TH Web](https://github.com/anaistatibouet/thweb);
 - 💻 Last projects : [Login Page](https://github.com/anaistatibouet/login-test-alternance) and [OPN](https://github.com/anaistatibouet/opn-expertime)
 
-**Languages and Tools:**
+**Favorite languages and frameworks**
 
+<p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
   <img width="10%" src="https://img.icons8.com/color/144/000000/vue-js.png">
+  <br />
+  <img width="10%" src="https://img.icons8.com/color/144/000000/c-sharp-logo.png">
+  <img width="10%" src="https://docs.microsoft.com/fr-ch/learn/tv/media/blazor-logo.png">
+</p>
